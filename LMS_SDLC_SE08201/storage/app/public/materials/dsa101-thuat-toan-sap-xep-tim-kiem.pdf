@@ -1,0 +1,48 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 5 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 615 >>
+stream
+BT
+/F1 11 Tf
+50 780 Td
+15 TL
+(Slide Bai giang Thuat toan Sap xep & Tim kiem) Tj
+T* (Mon hoc: Cau truc du lieu & Giai thuat) Tj
+T* (------------------------------------------------------------------------------) Tj
+T* () Tj
+T* (1. Tim kiem & Sap xep) Tj
+T* (- Binary Search yeu cau mang da sap xep, do phuc tap O\(log n\).) Tj
+T* (- MergeSort luon O\(n log n\) va on dinh \(stable\); QuickSort trung binh O\(n log n\),) Tj
+T* (truong hop xau nhat O\(n^2\).) Tj
+T* () Tj
+T* (2. Duyet do thi BFS & DFS) Tj
+T* (- BFS dung Queue de tim duong di ngan nhat tren do thi khong trong so; DFS dung) Tj
+T* (Stack/de quy.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000187 00000 n 
+0000000853 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+979
+%%EOF

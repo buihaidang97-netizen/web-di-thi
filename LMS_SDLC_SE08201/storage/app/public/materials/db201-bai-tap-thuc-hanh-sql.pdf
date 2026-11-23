@@ -1,0 +1,47 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [ 5 0 R ] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 576 >>
+stream
+BT
+/F1 11 Tf
+50 780 Td
+15 TL
+(Bai giang & Lab Thuc hanh Truy van SQL MySQL) Tj
+T* (Mon hoc: Co so du lieu MySQL) Tj
+T* (------------------------------------------------------------------------------) Tj
+T* () Tj
+T* (1. Cau lenh mau trong tam) Tj
+T* (- SELECT, WHERE, ORDER BY, LIMIT, COUNT/SUM/AVG ket hop GROUP BY va HAVING.) Tj
+T* (- Phan biet WHERE \(loc truoc khi gom nhom\) va HAVING \(loc sau khi gom nhom\).) Tj
+T* () Tj
+T* (2. Transaction & ACID) Tj
+T* (- Dam bao 4 tinh chat Atomicity, Consistency, Isolation, Durability bang BEGIN /) Tj
+T* (COMMIT / ROLLBACK.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000117 00000 n 
+0000000187 00000 n 
+0000000814 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+940
+%%EOF

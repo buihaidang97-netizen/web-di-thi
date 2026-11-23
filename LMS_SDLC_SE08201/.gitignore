@@ -1,25 +1,27 @@
-# Environment
-.env
+# Environment (đã mở để clone về chạy luôn trên repo web-di-thi)
 .env.local
 .env.*.local
 
 # IDE
 .vscode/
 .idea/
+.agents/
 *.swp
 *.swo
 *~
 .DS_Store
 
-# Dependencies
-vendor/
+# Dependencies (giữ vendor/ trong repo để clone về chạy luôn không cần composer install)
 node_modules/
 package-lock.json
 yarn.lock
 
-# Laravel
-storage/
-bootstrap/cache/
+# Laravel (chỉ bỏ qua file cache/session/log tạm, giữ btec_ai_kb và app/public)
+storage/logs/*.log
+storage/framework/cache/data/*
+storage/framework/sessions/*
+storage/framework/views/*.php
+bootstrap/cache/*.php
 .phpunit.result.cache
 *.log
 
